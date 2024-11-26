@@ -1,0 +1,17 @@
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\bin\Debug\net6.0-windows\GeneticAlgorithm.exe
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\bin\Debug\net6.0-windows\GeneticAlgorithm.deps.json
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\bin\Debug\net6.0-windows\GeneticAlgorithm.runtimeconfig.json
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\bin\Debug\net6.0-windows\GeneticAlgorithm.dll
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\bin\Debug\net6.0-windows\GeneticAlgorithm.pdb
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.Form1.resources
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.csproj.GenerateResource.cache
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.AssemblyInfoInputs.cache
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.AssemblyInfo.cs
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.sourcelink.json
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.dll
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\refint\GeneticAlgorithm.dll
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.pdb
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\GeneticAlgorithm.genruntimeconfig.cache
+D:\GitHub\surgu-Intelligent-systems\GeneticAlgorithm\obj\Debug\net6.0-windows\ref\GeneticAlgorithm.dll
